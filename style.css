@@ -1,4 +1,7 @@
-.attribution { font-size: 11px; text-align: center; }
+.attribution { 
+    font-size: 11px; text-align: center;
+    padding-top: .5rem; 
+}
 .attribution a { color: hsl(228, 45%, 44%); }
 
 :root{
